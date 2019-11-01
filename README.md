@@ -1,4 +1,4 @@
-This is the repository for [my Medium post](http...).
+This is the repository for [my Medium post](https://medium.com/@crcrpar/optuna-fastai-tabular-model-001-55777031e288).
 
 ## Requirements
 - fastai v1.0.58
